@@ -1,4 +1,10 @@
+# COMP-0233 Archive
+
+This fork is part of one of the exercises in UCL's COMP0233 ["Research Software Engineering with Python"](https://github.com/UCL-COMP0233-22-23/RSE-Classwork) course. The course is completed, and all repositories are now archived.
+
 This exercise will look at how to read data from an online source (web service), explore and and process it.
+
+---
 
 You will work with a dataset describing earthquakes, provided by the [US Geological Survey](https://earthquake.usgs.gov/).
 Your task will be to find the **location** and **magnitude** of the strongest earthquake in the UK in the last century.
